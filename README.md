@@ -16,7 +16,7 @@ Aula de backend MVC projeto de exemplo usando um mockup bens.json
 npm install
 npm run dev
 ```
-= 3 Abra o arquivo `client/index.html` com Live Server do VsCode
+- 3 Abra o arquivo `client/index.html` com Live Server do VsCode
 
 ## Screenshot
 ![Print](./print.png)
