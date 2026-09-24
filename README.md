@@ -1,22 +1,22 @@
-
-# Inventário Backend
-Aula de backend MVC projeto de exemplo usando um mockup bens.json
+# Inventario MVC FULL
+Projeto exemplo em aula de Back-end do SESI Amparo, simulando envio e listagem de dados de um servidor utilizando mokup JSON e os verbos GET e POST
 
 ## Tecnologias
+- JavaScript
 - Node.js
 - Express
 - Cors
-- MVC
-- VsCode
-- JavaScript
+- HTML, CSS, JS
+
 ## Passos para testar
 - 1 Clone este repositório
-- 2 Abra com Vscode e em um terminal digite:
+- 2 Abra com VsCode e em um terminal execute
 ```bash
 npm install
 npm run dev
 ```
-- 3 Abra o arquivo `client/index.html` com Live Server do VsCode
+- 3 Execute o frontend abrindo o arquivo `client/index.html` com Live Server do VsCode
 
-## Screenshot
-![Print](./print.png)
+## Print da tela
+![Screenshot](./print.png)
+

@@ -1,9 +1,9 @@
 const express = require("express")
-const router = express.Router()
+const router = express.Router();
 
-const { create, list } = require("./controllers")
+const { create, read } = require("./controllers")
 
 router.post("/bens",create)
-router.get("/bens",list)
+router.get("/bens",read)
 
 module.exports = router

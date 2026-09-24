@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "item": "Armário de duas portas",
-        "local": "Sala de aula 09",
-        "data": "2026-09-17",
-        "valor": 600,
-        "patrimonio": "PT123"
+        "item": "Notebook Dell",
+        "local": "Laboratório 01",
+        "dataRegistro": "2026-09-10",
+        "valor": 3500.00,
+        "patrimonio": "PAT-00125"
     },
     {
         "id": 2,
-        "item": "Notebook DELL",
-        "local": "Sala de aula 09",
-        "data": "2026-09-17",
-        "valor": 7000,
-        "patrimonio": "PT000"
+        "item": "Mesa de escritório",
+        "local": "Diretoria",
+        "dataRegistro": "2026-09-10",
+        "valor": 780.00,
+        "patrimonio": "PAT-00126"
     },
     {
         "id": 3,
-        "item": "Cadeira de aluno",
+        "item": "Ar condicionado Brastemp",
         "local": "Sala de aula 09",
-        "data": "2026-09-17",
-        "valor": 100,
-        "patrimonio": "PT111"
+        "dataRegistro": "2026-09-10",
+        "valor": 1200.00,
+        "patrimonio": "PAT-00127"
     }
 ]

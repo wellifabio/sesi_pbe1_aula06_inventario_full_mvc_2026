@@ -1,6 +1,7 @@
 {
-  "name": "inventario_mvc",
+  "name": "inventario",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "dev": "node --watch server.js",
@@ -9,7 +10,7 @@
   "keywords": [],
   "author": "wellifabio",
   "license": "ISC",
-  "description": "",
+  "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1"
